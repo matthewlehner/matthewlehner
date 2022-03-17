@@ -3,7 +3,7 @@
 I'm Matthew Lehner. I've been building stuff for the internet since the 90s, which probably makes me old.
 
 - These days I'm CTO and co-founder at OneFeather where we're working to decolonize the Indigenous experience in Canada.
-- I'm currently learning a lot about product management, specifically about how to do effective product management at startup/small team scale, through a Jobs to Be Done lense
+- I'm currently learning a lot about product management, specifically about how to do effective product management at startup/small team scale, through a Jobs to Be Done lens
 - Pronouns: He/Him
 - Fun Fact: I have ADHD, which makes me an incredibly empathetic, creative, and strategic person who is very bad at doing the same thing consistently.
 
