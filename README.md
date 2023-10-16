@@ -1,11 +1,9 @@
 # Hello 👋
 
-I'm Matthew Lehner. I've been building stuff for the internet since the 90s, which mostly means that I'm nostalgic for the weird times before CSS was a thing.
+I'm Matthew Lehner. I've been building stuff for the internet since the 90s, which mostly means that I'm nostalgic for the weird times before CSS was a thing. I've been in developer, leadership, and founder positions at companies of various sizes.
 
-- These days I'm CTO and co-founder at OneFeather where we're working to decolonize the Indigenous experience in Canada.
-- I'm currently learning a lot about product management, specifically about how to do effective product management at startup/small team scale, through a Jobs to Be Done lens
 - Pronouns: He/Him
-- Fun Fact: I have ADHD, which makes me an incredibly empathetic, creative, and strategic person who is very bad at doing the same thing consistently.
+- Fun Fact: I have ADHD, which makes me an empathetic, creative, and strategic person who is unable to do the same tasks consistently.
 
 
 
