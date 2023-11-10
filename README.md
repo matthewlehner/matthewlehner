@@ -3,8 +3,6 @@
 I'm Matthew Lehner. I've been building stuff for the internet since the 90s, which mostly means that I'm nostalgic for the weird times before CSS was a thing. I've been in developer, leadership, and founder positions at companies of various sizes.
 
 - Pronouns: He/Him
-- Fun Fact: I have ADHD, which makes me an empathetic, creative, and strategic person who is unable to do the same tasks consistently.
-
 
 
 <!--
